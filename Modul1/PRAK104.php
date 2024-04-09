@@ -12,21 +12,21 @@
         <table>
             <tr>
                 <th>
-                    Daftar Smartphone Samsung
+                    Daftar Smartphone samsung
                 </th>
             </tr>
-            <?php $samsung = array("Samsung Galaxy S22", "Samsung Galaxy S22+", "Samsung Galaxy AO3", "Samsung Galaxy Xcover5");?>
+            <?php $hp = array("Samsung Galaxy S22", "Samsung Galaxy S22+", "Samsung Galaxy AO3", "Samsung Galaxy Xcover5");?>
             <tr>
-                <td><?php echo $samsung[0]?></td>
+                <td><?php echo $hp[0]?></td>
             </tr>
             <tr>
-                <td><?php echo $samsung[1]?></td>
+                <td><?php echo $hp[1]?></td>
             </tr>
             <tr>
-                <td><?php echo $samsung[2]?></td>
+                <td><?php echo $hp[2]?></td>
             </tr>
             <tr>
-                <td><?php echo $samsung[3]?></td>
+                <td><?php echo $hp[3]?></td>
             </tr>
         </table>
     </body>
